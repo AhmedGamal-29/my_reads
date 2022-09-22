@@ -2,6 +2,7 @@ import React from 'react'
 import { search } from '../BooksAPI';
 import { useState } from "react";
 import Book from '../components/Book';
+import { Link } from 'react-router-dom';
 
 const StoreSearch = ({ changeShelf, selectShelf }) => {
     const [searchResult, setSearchResult] = useState([]);
@@ -25,12 +26,12 @@ const StoreSearch = ({ changeShelf, selectShelf }) => {
     return (
         <div className="search-books">
             <div className="search-books-bar">
-                <a
-                    href='/'
+                <Link
+                    to='/'
                     className="close-search"
                 >
                     Close
-                </a>
+                </Link>
                 <div className="search-books-input-wrapper">
                     <input
                         type="text"
