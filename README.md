@@ -1,6 +1,6 @@
 # MyReads project
 
-React app to search about your favourite book and categorize it to one of the available shelves {Currently Read, Want to Read, Read} applying components that hold data, passing props between components, state management {state to each component} 
+It is React app to search about your favourite book and categorize it to one of the available shelves {Currently Read, Want to Read, Read} applying components that hold data, passing props between components, state management {state to each component} or remove it from your library.
 
 ## Get Started
 
