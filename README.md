@@ -6,8 +6,11 @@ It is graduation project to React Development Cross-Skilling Nanodegree Track eg
  
 ## Get Started
 
-    install all project dependencies with npm install
-    start the development server with npm start
+    install all project dependencies with terminal { npm install }
+    start the development server with terminal { npm start }
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## Home Page
+![myread](https://user-images.githubusercontent.com/101002059/191975539-ad846329-5904-45f0-8129-08f934d37204.png)
